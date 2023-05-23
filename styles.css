@@ -1,12 +1,9 @@
 /*  your css code here. If applicable */
-p.para1 {
+p.selector {
 	color:#00f;
 	background-color:#eee;
 }
-p.para3{
-	 color:#00f;
-	background-color:#eee;
- }
+
 p.para2{
 	color:black;
 }
