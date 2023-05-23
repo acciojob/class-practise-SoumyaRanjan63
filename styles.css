@@ -1,5 +1,15 @@
 /*  your css code here. If applicable */
-.para1 , .para3{
+p.para1 {
 	color:#00f;
-	background-color:rgba(0, 0, 0, 0);
+	background-color:#eee;
+}
+p.para3{
+	 color:#00f;
+	background-color:#eee;
+ }
+p.para2{
+	color:black;
+}
+p.para4{
+	color:black;
 }
